@@ -4,7 +4,7 @@ title: Topics
 permalink: /topics/
 menurank: 3
 ---
-<p style="text-align: justify">We are always interested in current topics concerning Software Engineering. If you have an idea for your thesis that is within our research interests, write me an email suggesting your idea or drop by my office to discuss it.</p>
+<p style="text-align: justify">We are always interested in supervising theses that concern current topics of Software Engineering. If you have an idea for your thesis that is within our research interests, write me an email suggesting your idea or drop by my office to discuss the idea.</p>
 <p style="text-align: justify">We also offer predefined topics that can be adapted according to your interests. The following topics are currently offered (click for details):</p>
 
  <ul style="list-style-type: none;">
