@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Xml test!"
+date:   2017-11-08 20:22:21 +0100
+categories: jekyll update
+---
+testpost
+{% highlight xml %}
+<asdf>
+	<name cat="long">James</name>
+</asdf>
+{% endhighlight %}
