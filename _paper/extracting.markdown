@@ -12,10 +12,10 @@ preprint: "ExtractingBuildChangesWithBuildDiff.pdf"
 <h2>Tools and Data</h2>
 <div>
 <a href="{{ site.url }}/preprints/ExtractingBuildChangesWithBuildDiff.pdf" target="_blank">Preprint</a>, 
-<a href="{{ site.url }}/preprints/differ-maven-differ-0.0.6.jar">Executeable</a>, 
-<a href="{{ site.url }}/preprints/BuildChangeTaxonomy.pdf">Build Change Taxonomy</a>, 
-<a href="{{ site.url }}/preprints/evaluationP1.xls">Evaluation 1</a>,
-<a href="{{ site.url }}/preprints/evaluationP2.xls">Evaluation 2</a>
+<a href="{{ site.url }}/preprints/differ-maven-differ-0.0.6.jar" target="_blank">Executeable</a>, 
+<a href="{{ site.url }}/preprints/BuildChangeTaxonomy.pdf" target="_blank">Build Change Taxonomy</a>, 
+<a href="{{ site.url }}/preprints/evaluationP1.xls" target="_blank">Evaluation 1</a>,
+<a href="{{ site.url }}/preprints/evaluationP2.xls" target="_blank">Evaluation 2</a>
 </div>
 <h2>Bibtex</h2>
 @inproceedings{macho2017msr,
