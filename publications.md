@@ -7,7 +7,8 @@ menurank: 1
 
 
  <ul class="post-list">
-{% for item in site.paper %}
+{% assign papersOrder = site.paper | sort: 'order' | reverse  %}
+{% for item in papersOrder %}
   <li>
   	<h2><a class="post-link" href="{{ item.url }}">{{ item.title }}</a></h2>
   	{% if item.bestpapertext %}
@@ -16,7 +17,9 @@ menurank: 1
   	<span class="post-meta"><b>Authors: </b> 	{{ item.authors }}</span><br/>
   	<span class="post-meta"><b>Venue: </b> 	{{ item.conference }}</span><br/>
   	<span class="post-meta"><b>Acceptance Rate: </b>  {{ item.acceptancerate }}</span><br/>
-  	<span class="post-meta"><b>Preprint: </b><a href="{{ site.url }}/preprints/{{ item.preprint }}"><img style="height:18px; width=10px;" src="/assets/icon-pdf.png" /></a></span>
+  	{% if item.preprint %}
+	  	<span class="post-meta"><b>Preprint: </b><a href="{{ site.url }}/preprints/{{ item.preprint }}"><img style="height:18px; width=10px;" src="/assets/icon-pdf.png" /></a></span>
+  	{% endif %}
   	{% if item.extendedabstract %}
   	  	<span class="post-meta"><b>Extended Abstract: </b><a href="{{ site.url }}/preprints/{{ item.extendedabstract }}"><img style="height:18px; width=10px;" src="/assets/icon-pdf.png" /></a></span>
   	{% endif %}
