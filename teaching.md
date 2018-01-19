@@ -20,3 +20,5 @@ Please, also check the University's page for the <a href="https://campus.aau.at/
   <li>Software Testing</li>
   <li>Software Quality Management</li>
 </ul>
+
+<div><a href="{{ site.url }}/teachingdata/Pruefungsorg1.pdf">Exams Schedule (SS2018)</a></div>
