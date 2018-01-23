@@ -20,7 +20,7 @@ In this paper, we propose BuildMedic, an approach to automatically repair Maven 
 <h2>Bibtex</h2>
 @inproceedings{macho2018saner,
   Author = {Christian Macho and Shane McIntosh and Martin Pinzger},
-  Title = {{Automatically Repairing Dependency-Related Build Breakage}},
+  Title = {Automatically Repairing Dependency-Related Build Breakage},
   Year = {2018},
   Booktitle = {Proc. of the International Conference on Software Analysis, Evolution, and Reengineering (SANER)},
   Pages = {To appear}
