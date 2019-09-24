@@ -19,6 +19,14 @@ and the exercise courses in
 Please, also check the University's page for the <a href="https://campus.aau.at/studien/lvliste.jsp?atoken=914095040" target="_blank">current courses</a>.
 </div>
 
+<div>I've also been involved in several courses as Tutor at the Technical University Vienna including 
+<ul>
+  <li>Advanced Software Engineering</li>
+  <li>Software Engineering and Project Management</li>
+  <li>Software Testing</li>
+  <li>Software Quality Management</li>
+</ul>
+
 <div>
 <h2>Students</h2>
 <ul>
@@ -28,13 +36,5 @@ Please, also check the University's page for the <a href="https://campus.aau.at/
 <li>Christoph Riedl, IP Management Tool (Bachelor Project and Thesis), <a href="https://www.kapsch.net/" target="_blank">Kapsch</a></li>
 </ul>
 </div>
-
-<div>I've also been involved in several courses as Tutor at the Technical University Vienna including 
-<ul>
-  <li>Advanced Software Engineering</li>
-  <li>Software Engineering and Project Management</li>
-  <li>Software Testing</li>
-  <li>Software Quality Management</li>
-</ul>
 
 <div><a href="{{ site.url }}/teachingdata/PruefungsorgWS19.pdf">Exams Schedule (WS2019)</a></div>
