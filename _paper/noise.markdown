@@ -22,5 +22,5 @@ To investigate the degree to which these assumptions about build breakage hold, 
   Title = {{Noise and Heterogeneity in Historical Build Data: An Empirical Study of Travis CI}},
   Year = {2018},
   Booktitle = {Proc. of the International Conference on Automated Software Engineering (ASE)},
-  Pages = {To appear}
+  Pages = {87–97}
 }

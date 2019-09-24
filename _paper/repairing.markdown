@@ -23,5 +23,5 @@ In this paper, we propose BuildMedic, an approach to automatically repair Maven 
   Title = {Automatically Repairing Dependency-Related Build Breakage},
   Year = {2018},
   Booktitle = {Proc. of the International Conference on Software Analysis, Evolution, and Reengineering (SANER)},
-  Pages = {To appear}
+  Pages = {106–117}
 }
