@@ -6,7 +6,6 @@ conference: EMSE
 acceptancerate: "-"
 authors: "Stefanie Beyer, Christian Macho, Massimiliano Di Penta, Martin Pinzger"
 preprint: "emse2019questionCategories.pdf"
-dataandtools: ""
 order: 7
 ---
 <h2>Abstract</h2>
