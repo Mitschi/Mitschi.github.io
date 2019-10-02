@@ -30,8 +30,8 @@ Please, also check the University's page for the <a href="https://campus.aau.at/
 <div>
 <h2>Students</h2>
 <ul>
-<li>Stefan Eberl, TBA (Bachelor Project and Thesis), <a href="https://www.dynatrace.com" target="_blank">Dynatrace</a></li>
-<li>David Laubreiter, TBA (Bachelor Project and Thesis), <a href="https://www.dynatrace.com" target="_blank">Dynatrace</a></li>
+<li>Stefan Eberl, Portierung des Open Source Frameworks OpenKit nach Python (Bachelor Project and Thesis), <a href="https://www.dynatrace.com" target="_blank">Dynatrace</a></li>
+<li>David Laubreiter, Portierung des Open Source Frameworks OpenKit nach JavaScript (Bachelor Project and Thesis), <a href="https://www.dynatrace.com" target="_blank">Dynatrace</a></li>
 <li>Kevin Wiltschnig, IP Management Tool (Bachelor Project and Thesis), <a href="https://www.kapsch.net/" target="_blank">Kapsch</a></li>
 <li>Christoph Riedl, IP Management Tool (Bachelor Project and Thesis), <a href="https://www.kapsch.net/" target="_blank">Kapsch</a></li>
 </ul>
