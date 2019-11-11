@@ -34,6 +34,7 @@ Please, also check the University's page for the <a href="https://campus.aau.at/
 <li>David Laubreiter, Portierung des Open Source Frameworks OpenKit nach JavaScript (Bachelor Project and Thesis), <a href="https://www.dynatrace.com" target="_blank">Dynatrace</a></li>
 <li>Kevin Wiltschnig, IP Management Tool (Bachelor Project and Thesis), <a href="https://www.kapsch.net/" target="_blank">Kapsch</a></li>
 <li>Christoph Riedl, IP Management Tool (Bachelor Project and Thesis), <a href="https://www.kapsch.net/" target="_blank">Kapsch</a></li>
+<li>Andreas Mairitsch, Mobile App zur Digitalisierung und Automatisierung von Geschäftsprozessen (Bachelor Project and Thesis), <a href="https://dateexonline.azurewebsites.net/" target="_blank">Dateex information technology GmbH</a></li>
 </ul>
 </div>
 
