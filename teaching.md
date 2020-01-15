@@ -38,4 +38,4 @@ Please, also check the University's page for the <a href="https://campus.aau.at/
 </ul>
 </div>
 
-<div><a href="{{ site.url }}/teachingdata/PruefungsorgWS19.pdf">Exams Schedule (WS2019)</a></div>
+<div><a href="{{ site.url }}/teachingdata/PruefungsorgSS20.pdf">Exams Schedule (SS2020)</a></div>
