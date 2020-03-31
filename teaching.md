@@ -48,8 +48,9 @@ Please, also check the University's page for the <a href="https://campus.aau.at/
 </ul>
 
 <h3>Former</h3>
+<ul>
 <li><b>Bernhard Jahrer</b>, Analysing Stack Overflow data - Readability and Sentiment evolvement over time (co-supvervised with <a href="https://steffiii.github.io/" target="_blank">Stefanie Beyer</a>, Bachelor Project and Thesis)</li>
 <li><b>Markus Mennel</b>, Mapping von Android API-Versionen auf StackOverFlow-Posts (co-supvervised with <a href="https://steffiii.github.io/" target="_blank">Stefanie Beyer</a>, Bachelor Project and Thesis)</li>
 </div>
-
+</ul>
 <div><a href="{{ site.url }}/teachingdata/PruefungsorgSS20.pdf">Exams Schedule (SS2020)</a></div>
