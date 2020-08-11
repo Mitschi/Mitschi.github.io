@@ -44,6 +44,8 @@ Please, also check the University's page for the <a href="https://campus.aau.at/
 <li><b>Onur Yilmaz</b>, IntelliJ Plugin zum automatisierten Erkennen von Designverstößen (Bachelor Project and Thesis)</li>
 <li><b>Klaus Strießnig</b>, Tool zur Unterstützung der LV-Verwaltung im Bereich Software Engineering (Bachelor Project and Thesis)</li>
 <li><b>Peter Pipp</b>, Tool zur Unterstützung der LV-Verwaltung im Bereich Software Engineering (Bachelor Project and Thesis)</li>
+<li><b>Markus Stubinger</b>, Implementierung eines privaten Terminplaners für Android (Bachelor Project and Thesis, co-supvervised with <a href="https://steffiii.github.io/" target="_blank">Stefanie Beyer</a>)</li>
+<li><b>Alexander Hofer</b>, Implementierung und Integration eines Dynamisches Eingangs-Rechnung Import Service in einem Microservice Umfeld, (Bachelor Project and Thesis), <a href="https://www.strabag.at/" target="_blank">STRABAG</a></li>
 </ul>
 
 <h3>Former</h3>
