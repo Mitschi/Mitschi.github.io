@@ -56,4 +56,4 @@ Please, also check the University's page for the <a href="https://campus.aau.at/
 </ul>
 </div>
 
-<div><a href="{{ site.url }}/teachingdata/PruefungsorgWS20.pdf">Exams Schedule (WS20)</a></div>
+<div><a href="{{ site.url }}/teachingdata/Pruefungsorganisation_WS2021_T3.pdf">Exams Schedule (WS20 3. Block)</a></div>
