@@ -5,7 +5,6 @@ categories: publication
 conference: EMSE
 acceptancerate: "-"
 authors: "Christian Macho, Stefanie Beyer, Shane McIntosh, Martin Pinzger"
-preprint: ""
 order: 8
 ---
 <h2>Abstract</h2>
