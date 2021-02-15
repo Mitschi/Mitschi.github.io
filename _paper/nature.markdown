@@ -2,7 +2,7 @@
 layout: post
 title:  "The Nature of Build Changes - An Empirical Study of Maven-based Build Systems"
 categories: publication
-conference: EMSE
+conference: EMSE (to appear)
 acceptancerate: "-"
 authors: "Christian Macho, Stefanie Beyer, Shane McIntosh, Martin Pinzger"
 order: 8
