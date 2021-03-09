@@ -28,7 +28,7 @@ The results of this work can be used to design better tools that assist users in
 <h2>Bibtex</h2>
 @inproceedings{hodnigg2021spreadsheets,
   Author = {Karin Hodnigg and Christian Macho and Martin Pinzger and Dietmar Jannach},
-  Title = {{Comprehending Spreadsheets: Which Strategies do Users Apply?}},
+  Title = {Comprehending Spreadsheets: Which Strategies do Users Apply?},
   Year = {2021},
   Booktitle = {International Conference on Program Comprehension},
   Pages = {to appear}
