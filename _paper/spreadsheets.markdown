@@ -30,6 +30,6 @@ The results of this work can be used to design better tools that assist users in
   Author = {Karin Hodnigg and Christian Macho and Martin Pinzger and Dietmar Jannach},
   Title = {Comprehending Spreadsheets: Which Strategies do Users Apply?},
   Year = {2021},
-  Booktitle = {International Conference on Program Comprehension},
+  Booktitle = {Proc. of the International Conference on Program Comprehension (ICPC)},
   Pages = {to appear}
 }
