@@ -3,7 +3,7 @@ layout: post
 title:  "Comprehending Spreadsheets: Which Strategies do Users Apply?"
 categories: publication
 conference: ICPC21 ERA 
-acceptancerate: "55%"
+acceptancerate: "6/11 (55%)"
 authors: "Karin Hodnigg, Christian Macho, Martin Pinzger, Dietmar Jannach"
 order: 9
 ---
