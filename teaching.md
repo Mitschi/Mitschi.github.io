@@ -37,7 +37,6 @@ Please, also check the University's page for the <a href="https://campus.aau.at/
 <h3>Bachelor</h3>
 <ul>
 <li><b>Stefan Eberl</b>, Portierung des Open Source Frameworks OpenKit nach Python (Bachelor Project and Thesis), <a href="https://www.dynatrace.com" target="_blank">Dynatrace</a></li>
-<li><b>David Laubreiter</b>, Portierung des Open Source Frameworks OpenKit nach JavaScript (Bachelor Project and Thesis), <a href="https://www.dynatrace.com" target="_blank">Dynatrace</a></li>
 <li><b>Christoph Riedl and Kevin Wiltschnig</b>, IP Management Tool (Bachelor Project and Thesis), <a href="https://www.kapsch.net/" target="_blank">Kapsch</a></li>
 <li><b>Onur Yilmaz</b>, IntelliJ Plugin zum automatisierten Erkennen von Designverstößen (Bachelor Project and Thesis)</li>
 <li><b>Peter Pipp and Klaus Strießnig</b>, Tool zur Unterstützung der LV-Verwaltung im Bereich Software Engineering (Bachelor Project and Thesis)</li>
@@ -51,6 +50,7 @@ Please, also check the University's page for the <a href="https://campus.aau.at/
 <h3>Former</h3>
 <ul>
 <li><b>Selene Lobnig</b>, The Impact of Build Changes on Build Results (Bachelor Project and Thesis)</li>
+<li><b>David Laubreiter</b>, Portierung des Open Source Frameworks OpenKit nach JavaScript (Bachelor Project and Thesis), <a href="https://www.dynatrace.com" target="_blank">Dynatrace</a></li>
 <li><b>Alexander Hofer</b>, Implementierung und Integration eines Dynamischen Eingangs-Rechnung Import Service in einem Microservice Umfeld, (Bachelor Project and Thesis), <a href="https://www.strabag.at/" target="_blank">STRABAG</a></li>
 <li><b>Andreas Mairitsch</b>, Mobile App zur Digitalisierung und Automatisierung von Geschäftsprozessen (Bachelor Project and Thesis), <a href="http://www.dateex.at/" target="_blank">Dateex information technology GmbH</a></li>
 <li><b>Bernhard Jahrer</b>, Analysing Stack Overflow data - Readability and Sentiment evolvement over time (co-supvervised with <a href="https://steffiii.github.io/" target="_blank">Stefanie Beyer</a>, Bachelor Project and Thesis)</li>
