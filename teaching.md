@@ -44,7 +44,7 @@ Please, also check the University's page for the <a href="https://campus.aau.at/
 
 <li><b>Fabian Oraze</b>, Automatically Repairing Dependency Conflicts (Bachelor Project and Thesis)</li>
 <li><b>Larissa Krainer</b>, Fine-grained Test Case Selection (Bachelor Project and Thesis)</li>
-<!-- <li><b>Philipp Freislich</b>, Integration einer Elastic Suche in das System COBA (Bachelor Project and Thesis), <a href="https://www.imendo.at/" target="_blank">Imendo</a></li> -->
+<li><b>Philipp Freislich</b>, Integration einer Elastic Suche in das System COBA (Bachelor Project and Thesis), <a href="https://www.plincs.com/" target="_blank">Plincs</a></li>
 </ul>
 
 <h3>Former</h3>
