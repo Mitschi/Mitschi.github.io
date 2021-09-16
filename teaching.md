@@ -37,18 +37,17 @@ Please, also check the University's page for the <a href="https://campus.aau.at/
 <h3>Bachelor</h3>
 <ul>
 <li><b>Stefan Eberl</b>, Portierung des Open Source Frameworks OpenKit nach Python (Bachelor Project and Thesis), <a href="https://www.dynatrace.com" target="_blank">Dynatrace</a></li>
-<li><b>Christoph Riedl and Kevin Wiltschnig</b>, IP Management Tool (Bachelor Project and Thesis), <a href="https://www.kapsch.net/" target="_blank">Kapsch</a></li>
 <li><b>Onur Yilmaz</b>, IntelliJ Plugin zum automatisierten Erkennen von Designverstößen (Bachelor Project and Thesis)</li>
 <li><b>Peter Pipp and Klaus Strießnig</b>, Tool zur Unterstützung der LV-Verwaltung im Bereich Software Engineering (Bachelor Project and Thesis)</li>
 <li><b>Markus Stubinger</b>, Implementierung eines privaten Terminplaners für Android (Bachelor Project and Thesis, co-supvervised with <a href="https://steffiii.github.io/" target="_blank">Stefanie Beyer</a>)</li>
-
-<li><b>Fabian Oraze</b>, Automatically Repairing Dependency Conflicts (Bachelor Project and Thesis)</li>
 <li><b>Larissa Krainer</b>, Fine-grained Test Case Selection (Bachelor Project and Thesis)</li>
 <li><b>Philipp Freislich</b>, Integration einer Elastic Suche in das System COBA (Bachelor Project and Thesis), <a href="https://www.plincs.com/" target="_blank">Plincs</a></li>
 </ul>
 
 <h3>Former</h3>
 <ul>
+<li><b>Christoph Riedl and Kevin Wiltschnig</b>, IP Management Tool (Bachelor Project and Thesis), <a href="https://www.kapsch.net/" target="_blank">Kapsch</a></li>
+<li><b>Fabian Oraze</b>, Automatically Repairing Dependency Conflicts (Bachelor Project and Thesis)</li>
 <li><b>Selene Lobnig</b>, The Impact of Build Changes on Build Results (Bachelor Project and Thesis)</li>
 <li><b>David Laubreiter</b>, Portierung des Open Source Frameworks OpenKit nach JavaScript (Bachelor Project and Thesis), <a href="https://www.dynatrace.com" target="_blank">Dynatrace</a></li>
 <li><b>Alexander Hofer</b>, Implementierung und Integration eines Dynamischen Eingangs-Rechnung Import Service in einem Microservice Umfeld, (Bachelor Project and Thesis), <a href="https://www.strabag.at/" target="_blank">STRABAG</a></li>
