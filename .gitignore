@@ -2,3 +2,5 @@ _site/
 .sass-cache/
 .tweet-cache/
 Gemfile.lock
+/.idea/
+/Mitschi.github.io.iml
