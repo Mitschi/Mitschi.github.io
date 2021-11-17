@@ -46,8 +46,14 @@ Please, also check the University's page for the <a href="https://campus.aau.at/
 <li><b>Markus Stubinger</b>, Implementierung eines privaten Terminplaners für Android (Bachelor Project and Thesis, co-supvervised with <a href="https://steffiii.github.io/" target="_blank">Stefanie Beyer</a>)</li>
 <li><b>Larissa Krainer</b>, Fine-grained Test Case Selection (Bachelor Project and Thesis)</li>
 <li><b>Philipp Freislich</b>, Integration einer Elastic Suche in das System COBA (Bachelor Project and Thesis), <a href="https://www.plincs.com/" target="_blank">Plincs</a></li>
+
 <li><b>Alexander Huber</b>, TBD (Bachelor Project and Thesis), <a href="https://www.strabag.at/" target="_blank">STRABAG</a></li>
+<li><b>Martin Unterhuber</b>, Risk-based Test Case Selection (Bachelor Project and Thesis) </li>
+<li><b>Raphael Lesacher</b>, How to cut the cake? Transforming Monoliths to Microservices (Bachelor Project and Thesis) </li>
+<li><b>Timo Tabertshofer</b>, What to test next? Risk-based selection of critical code (Bachelor Project and Thesis) </li>
+
 </ul>
+
 
 <h3>Former</h3>
 <ul>
