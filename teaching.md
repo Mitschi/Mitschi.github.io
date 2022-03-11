@@ -57,6 +57,7 @@ Please, also check the University's page for the <a href="https://campus.aau.at/
 
 <h3>Former</h3>
 <ul>
+<li><b>Andreas Kopeinig</b>, Fine-grained Change Analysis for TypeScript based Systems (co-supvervised with <a href="https://pinzger.github.io/" target="_blank">Martin Pinzger</a>, Master Thesis)</li>
 <li><b>Onur Yilmaz</b>, IntelliJ Plugin zum automatisierten Erkennen von Designverstößen (Bachelor Project and Thesis)</li>
 <li><b>Peter Pipp and Klaus Strießnig</b>, Tool zur Unterstützung der LV-Verwaltung im Bereich Software Engineering (Bachelor Project and Thesis)</li>
 <li><b>Christoph Riedl and Kevin Wiltschnig</b>, IP Management Tool (Bachelor Project and Thesis), <a href="https://www.kapsch.net/" target="_blank">Kapsch</a></li>
