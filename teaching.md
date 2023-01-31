@@ -37,26 +37,29 @@ Please, also check the University's page for the <a href="https://campus.aau.at/
 <h2>Students</h2>
 <h3>Master</h3>
 <ul>
-<li><b>Daniel Leustik</b> (Master Thesis)</li>
-<li><b>Bernhard Jahrer</b> (Master Thesis)</li>
+<li><b>Bernhard Jahrer</b>, Identifying CI-skippable Commits using Changes to Source and Build Code, and their Complexity Measures (Master Thesis)</li>
+<!-- <li><b>Alexander Hofer</b>, An Empirical Investigation of the Monolith to Microservice Transformations (Master Thesis)</li> -->
+<!-- <li><b>Fabian Oraze</b>, Improving the Repair of Dependency Conflicts by Using Maven Repository Knowledge (Master Thesis)</li> -->
+<!-- <li><b>David Laubreiter</b>, TBA (Master Thesis), <a href="https://www.dynatrace.com" target="_blank">Dynatrace</a></li> -->
 </ul>
 <h3>Bachelor</h3>
 <ul>
-<li><b>Stefan Eberl</b>, Portierung des Open Source Frameworks OpenKit nach Python (Bachelor Project and Thesis), <a href="https://www.dynatrace.com" target="_blank">Dynatrace</a></li>
+<!-- <li><b>Stefan Eberl</b>, Portierung des Open Source Frameworks OpenKit nach Python (Bachelor Project and Thesis), <a href="https://www.dynatrace.com" target="_blank">Dynatrace</a></li> -->
 <li><b>Markus Stubinger</b>, Implementierung eines privaten Terminplaners für Android (Bachelor Project and Thesis, co-supvervised with <a href="https://steffiii.github.io/" target="_blank">Stefanie Beyer</a>)</li>
 <li><b>Larissa Krainer</b>, Fine-grained Test Case Selection (Bachelor Project and Thesis)</li>
 <li><b>Philipp Freislich</b>, Integration einer Elastic Suche in das System COBA (Bachelor Project and Thesis), <a href="https://www.plincs.com/" target="_blank">Plincs</a></li>
-
-<li><b>Alexander Huber</b>, TBD (Bachelor Project and Thesis), <a href="https://www.strabag.at/" target="_blank">STRABAG</a></li>
-<li><b>Martin Unterhuber</b>, Risk-based Test Case Selection (Bachelor Project and Thesis) </li>
+<li><b>Alexander Huber</b>, TBA (Bachelor Project and Thesis), <a href="https://www.strabag.at/" target="_blank">STRABAG</a></li>
 <li><b>Raphael Lesacher</b>, How to cut the cake? Transforming Monoliths to Microservices (Bachelor Project and Thesis) </li>
 <li><b>Timo Tabertshofer</b>, What to test next? Risk-based selection of critical code (Bachelor Project and Thesis) </li>
-
+<li><b>Johann Wriesnig</b>, Characterizing Stack Overflow User Expertise (Bachelor Project and Thesis) </li>
+<!-- <li><b>Laura Likar</b>, TBA (Bachelor Project and Thesis) </li> -->
+<!-- <li><b>Laura Randl</b>, TBA (Bachelor Project and Thesis), <a href="https://www.dynatrace.com" target="_blank">Dynatrace</a></li> -->
 </ul>
 
 
 <h3>Former</h3>
 <ul>
+<li><b>Martin Unterhuber</b>, Risk-based Test Case Selection (Bachelor Project and Thesis) </li>
 <li><b>Andreas Kopeinig</b>, Fine-grained Change Analysis for TypeScript based Systems (co-supvervised with <a href="https://pinzger.github.io/" target="_blank">Martin Pinzger</a>, Master Thesis)</li>
 <li><b>Onur Yilmaz</b>, IntelliJ Plugin zum automatisierten Erkennen von Designverstößen (Bachelor Project and Thesis)</li>
 <li><b>Peter Pipp and Klaus Strießnig</b>, Tool zur Unterstützung der LV-Verwaltung im Bereich Software Engineering (Bachelor Project and Thesis)</li>
