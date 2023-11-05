@@ -37,11 +37,13 @@ Please, also check the University's page for the <a href="https://campus.aau.at/
 <h2>Students</h2>
 <h3>Master</h3>
 <ul>
-<!-- <li><b>Alexander Hofer</b>, An Empirical Investigation of the Monolith to Microservice Transformations (Master Thesis)</li> -->
+<li><b>Alexander Hofer</b>, An Empirical Investigation of Monolith to Microservice Transformation Approaches (Master Thesis)</li>
 <li><b>Fabian Oraze</b>, Improving the Repair of Dependency Conflicts by Using Maven Repository Knowledge (Master Thesis)</li>
+<li><b>Katharina Stengg</b>, Predicting Build Outcomes to Support Developers in Build Execution Decisions (Master Thesis)</li>
 <!-- <li><b>David Laubreiter</b>, TBA (Master Thesis), <a href="https://www.dynatrace.com" target="_blank">Dynatrace</a></li> -->
-<!-- <li><b>Kevin Wiltschnig</b>, Supply Chain Attacks (Master Thesis)</li> -->
-<li><b>Salvatore Francesco Riefolo</b>, TBA (Master Project)</li>
+<li><b>Kevin Wiltschnig</b>, Supply Chain Attacks (Master Thesis)</li>
+
+<li><b>Salvatore Francesco Riefolo</b>, Revisiting Predictive Test Case Selection Approaches (Master Project)</li>
 </ul>
 <h3>Bachelor</h3>
 <ul>
@@ -55,7 +57,6 @@ Please, also check the University's page for the <a href="https://campus.aau.at/
 <!-- <li><b>Laura Likar</b>, TBA (Bachelor Project and Thesis) </li> -->
 <!-- <li><b>Laura Randl</b>, TBA (Bachelor Project and Thesis), <a href="https://www.dynatrace.com" target="_blank">Dynatrace</a></li> -->
 <!-- <li><b>Christian Raunjak</b>, TBA (Bachelor Project and Thesis)</li> -->
-<li><b>Markus Kofler</b>, Kubernetes Operator Management (Bachelor Project and Thesis)</li>
 </ul>
 
 
@@ -68,6 +69,7 @@ Please, also check the University's page for the <a href="https://campus.aau.at/
 </ul>
 <h4>Bachelor</h4>
 <ul>
+<li><b>Markus Kofler</b>, Kubernetes Operator Management (Bachelor Project and Thesis)</li>
 <li><b>Philipp Freislich</b>, Integration einer Elastic Suche in das System COBA (Bachelor Project and Thesis), <a href="https://www.plincs.com/" target="_blank">Plincs</a></li>
 <li><b>Martin Unterhuber</b>, Risk-based Test Case Selection (Bachelor Project and Thesis) </li>
 <li><b>Onur Yilmaz</b>, IntelliJ Plugin zum automatisierten Erkennen von Designverstößen (Bachelor Project and Thesis)</li>
